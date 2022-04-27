@@ -6,6 +6,8 @@ The N-queens puzzle is the problem of placing N chess queens on an n×n chessboa
 
 ![Screenshot](https://github.com/saullo/PUC_TDS_Backtracking/blob/main/meta/images/screenshot.png?raw=true)
 
+https://user-images.githubusercontent.com/67022441/165430121-e5b743e7-9ff8-43d5-97f6-3e99ed6a8c26.mp4
+
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
